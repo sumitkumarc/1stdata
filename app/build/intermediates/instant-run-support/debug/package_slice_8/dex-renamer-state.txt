@@ -1,0 +1,4 @@
+#Fri Jul 13 13:31:54 IST 2018
+base.0=D\:\\sumit\\app\\First Choise\\First Choise\\First Choise\\First Choise\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
