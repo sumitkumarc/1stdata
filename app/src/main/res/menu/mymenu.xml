@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item-->
+        <!--android:id="@+id/nav_home"-->
+        <!--android:icon="@drawable/icon"-->
+        <!--android:title="Home" />-->
+    <item
+        android:id="@+id/nav_Offer"
+        android:icon="@drawable/ic_bottom_nav_offers_unselected"
+        android:title="Your Offer" />
+
+    <item
+        android:id="@+id/nav_Shop"
+        android:icon="@drawable/product"
+        android:title="Collections" />
+
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/places_ic_search"
+        android:title="search" />
+
+
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="My Cart"
+        app:actionLayout="@layout/cart_action_view" />
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/com_accountkit_check_sms"
+        android:iconTint="@color/grey_8f"
+        android:title="Help" />
+    <!--<item-->
+    <!--android:id="@+id/nav_cart"-->
+    <!--android:icon="@drawable/ic_shopping_cart_black_24dp"-->
+    <!--android:title="My Cart" />-->
+
+
+</menu>
